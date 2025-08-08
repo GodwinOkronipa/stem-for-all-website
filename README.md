@@ -17,19 +17,6 @@ To get a local copy of this project up and running, follow these simple steps.
 Prerequisites
 You only need a modern web browser to view the site.
 
-Installation
-Clone the repository:
-
-Bash
-
-git clone https://github.com/your-username/stem-for-all-website.git
-Navigate to the project directory:
-
-Bash
-
-cd stem-for-all-website
-Open the file:
-Open the index.html file in your preferred web browser to view the website.
 
 Technologies Used
 HTML5: The core structure of the website.
@@ -37,5 +24,6 @@ HTML5: The core structure of the website.
 Tailwind CSS: A utility-first CSS framework for rapid and responsive styling.
 
 Google Fonts: The "Inter" font for a clean, modern typeface.
+
 
 
