@@ -1,4 +1,3 @@
-#The STEM For All Initiative Website
 This is the official website for The STEM For All Initiative, an organization dedicated to fostering excellence in Science, Technology, Engineering, and Mathematics education in rural Ghana and beyond. The site serves as a central hub for information about our mission, programs, and the passionate team behind the work.
 
 Features
@@ -38,4 +37,5 @@ HTML5: The core structure of the website.
 Tailwind CSS: A utility-first CSS framework for rapid and responsive styling.
 
 Google Fonts: The "Inter" font for a clean, modern typeface.
+
 
